@@ -1,0 +1,6 @@
+.idea
+log/
+Gemfile.lock
+mkmf.log
+rspec-capybara-wait.iml
+trueautomation.json
